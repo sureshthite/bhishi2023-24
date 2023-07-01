@@ -27,7 +27,7 @@ export const LIST_OF_MEMBERS = [
   {
     id: 6,
     name: "Vaishnav Nair",
-    status: false,
+    status: true,
   },
   {
     id: 7,
@@ -46,7 +46,7 @@ export const LIST_OF_MEMBERS = [
   },
   {
     id: 10,
-    name: "Suhas More 2",
+    name: "Mayuri More",
     status: false,
   },
   {
@@ -78,11 +78,6 @@ export const REMAINING_LIST_OF_MEMBERS = [
     status: false,
   },
   {
-    id: 6,
-    name: "Vaishnav Nair",
-    status: false,
-  },
-  {
     id: 7,
     name: "Kishor Pawar",
     status: false,
@@ -99,7 +94,7 @@ export const REMAINING_LIST_OF_MEMBERS = [
   },
   {
     id: 10,
-    name: "Suhas More 2",
+    name: "Mayuri More",
     status: false,
   },
   {
