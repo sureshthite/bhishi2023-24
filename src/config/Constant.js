@@ -5,11 +5,6 @@ export const LIST_OF_MEMBERS = [
     status: false,
   },
   {
-    id: 2,
-    name: "Akshay Samgir",
-    status: false,
-  },
-  {
     id: 3,
     name: "Dinesh Jadhav",
     status: true,
@@ -65,7 +60,7 @@ export const REMAINING_LIST_OF_MEMBERS = [
   {
     id: 2,
     name: "Akshay Samgir",
-    status: false,
+    status: true,
   },
   {
     id: 4,
