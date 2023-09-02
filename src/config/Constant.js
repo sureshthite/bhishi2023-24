@@ -2,7 +2,7 @@ export const LIST_OF_MEMBERS = [
   {
     id: 1,
     name: "Suresh Thite",
-    status: false,
+    status: true,
   },
   {
     id: 2,
@@ -57,11 +57,7 @@ export const LIST_OF_MEMBERS = [
 ];
 
 export const REMAINING_LIST_OF_MEMBERS = [
-  {
-    id: 1,
-    name: "Suresh Thite",
-    status: false,
-  },
+  
   
   {
     id: 4,
