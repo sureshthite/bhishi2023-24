@@ -43,5 +43,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         run: |
-          npm ci
           npm run deploy
