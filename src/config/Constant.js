@@ -1,5 +1,3 @@
-///fsdfdfd
-
 export const LIST_OF_MEMBERS = [
   {
     id: 1,
