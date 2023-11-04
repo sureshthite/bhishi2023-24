@@ -42,7 +42,7 @@ export const LIST_OF_MEMBERS = [
   {
     id: 9,
     name: "Suhas More",
-    status: false,
+    status: true,
   },
   {
     id: 10,
@@ -77,11 +77,6 @@ export const REMAINING_LIST_OF_MEMBERS = [
   {
     id: 8,
     name: "Sagar Nale",
-    status: false,
-  },
-  {
-    id: 9,
-    name: "Suhas More",
     status: false,
   },
   {
