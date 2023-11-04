@@ -1,3 +1,5 @@
+// LIST_OF_MEMBERS SET true and delete from REMAINING_LIST_OF_MEMBERS if it's selected
+
 export const LIST_OF_MEMBERS = [
   {
     id: 1,
