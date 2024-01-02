@@ -34,7 +34,7 @@ export const LIST_OF_MEMBERS = [
   {
     id: 7,
     name: "Kishor Pawar",
-    status: false,
+    status: true,
   },
   {
     id: 8,
@@ -69,11 +69,6 @@ export const REMAINING_LIST_OF_MEMBERS = [
   {
     id: 5,
     name: "Prashant Bangar",
-    status: false,
-  },
-  {
-    id: 7,
-    name: "Kishor Pawar",
     status: false,
   },
   {
